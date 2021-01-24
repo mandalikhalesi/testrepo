@@ -1,4 +1,5 @@
 # coding: UTF-8
+#!/usr/local/bin/python3
 
 print("Python for beginners: let's begin")
 
